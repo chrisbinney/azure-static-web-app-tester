@@ -22,7 +22,7 @@
     },
     {
       "errorType": "Unauthenticated",
-      "statusCode": 301,
+      "statusCode": 302,
       "serve": "/login"
     }
   ]
